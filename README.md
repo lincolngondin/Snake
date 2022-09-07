@@ -1,0 +1,1 @@
+Famoso jogo da cobrinha feito em C++ usando a biblioteca gráfica SDL2
